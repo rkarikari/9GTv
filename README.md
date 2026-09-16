@@ -1,7 +1,5 @@
 # 9GTv
 
-© RNK 9G5AR RadioSport
-
 Android terrestrial digital TV (DVB-T / DVB-T2) player for RTL-SDR dongles
 (RTL-SDR Blog **V3**, R820T2 tuner), connected via USB-OTG.
 
@@ -158,15 +156,7 @@ IDE's bundled Gradle.
 ./gradlew assembleDebug
 ```
 
-## Distribution note
-
-The upstream driver project's own README explicitly warns that Google
-Play has suspended DVB-T-capable apps in the past over copyright-related
-policy concerns, and recommends not including TV screenshots and being
-explicit that the app bundles no content of its own (all content is
-whatever the user's antenna picks up over the air). 9GTv follows the same
-guidance and is intended primarily for sideloading / F-Droid-style
-distribution rather than Play Store.
+© RNK 9G5AR RadioSport
 
 
 GPLv2+ terms. See the COPYING conventions of the upstream project
