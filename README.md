@@ -168,11 +168,7 @@ whatever the user's antenna picks up over the air). 9GTv follows the same
 guidance and is intended primarily for sideloading / F-Droid-style
 distribution rather than Play Store.
 
-## License
 
-GPLv2+. This project now directly bundles GPLv2+-licensed source
-(`:usbxfer`, `:drivers`, `:dvbservice`) from AndroidDvbDriver, so the
-whole app -- not just the driver portion -- must be distributed under
 GPLv2+ terms. See the COPYING conventions of the upstream project
 (https://github.com/signalwareltd/AndroidDvbDriver) for details before
 redistributing, and keep the copyright headers in the vendored module
