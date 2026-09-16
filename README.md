@@ -157,9 +157,3 @@ IDE's bundled Gradle.
 ```
 
 © RNK 9G5AR RadioSport
-
-
-GPLv2+ terms. See the COPYING conventions of the upstream project
-(https://github.com/signalwareltd/AndroidDvbDriver) for details before
-redistributing, and keep the copyright headers in the vendored module
-sources intact.
